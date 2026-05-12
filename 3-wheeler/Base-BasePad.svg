@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="132.60000000000002mm"
+   height="58.6mm"
+   viewBox="0 0 132.60000000000002 58.6"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="Base-BasePad.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9809388"
+     inkscape:cx="187.78975"
+     inkscape:cy="71.935591"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="-9"
+     inkscape:window-y="62"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <g
+     id="Pad"
+     transform="translate(1.300000,57.300000) scale(1,-1)"
+     style="fill:none;stroke-width:0.2;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1">
+    <path
+       id="Pad_f0000"
+       d="M 0.0 0.0 L 0.0 0.0 L 0.0 56.0 L 0.0 56.0 L 0.0 0.0 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0001"
+       d="M 0.0 56.0 L 0.0 56.0 L 13.0 56.0 L 13.0 56.0 L 0.0 56.0 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0002"
+       d="M 13.0 56.0 L 13.0 56.0 L 13.0 19.0 L 13.0 19.0 L 13.0 56.0 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0003"
+       d="M 13.0 19.0 L 13.0 19.0 L 36.5 19.000000000000004 L 36.5 19.000000000000004 L 13.0 19.000000000000004 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0004"
+       d="M 36.5 19.000000000000004 L 36.5 19.000000000000004 L 36.5 46.00000000000001 L 36.5 46.00000000000001 L 36.5 19.000000000000004 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0005"
+       d="M 36.5 46.00000000000001 L 36.5 46.00000000000001 L 43.5 46.00000000000001 L 43.5 46.00000000000001 L 36.5 46.00000000000001 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0006"
+       d="M 43.5 46.00000000000001 L 43.5 46.00000000000001 L 43.5 56.0 L 43.5 56.0 L 43.5 46.00000000000001 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0007"
+       d="M 43.5 56.0 L 43.5 56.0 L 84.0 56.0 L 84.0 56.0 L 43.5 56.0 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0008"
+       d="M 84.0 56.0 L 84.0 56.0 L 130.0 44.00000000000001 L 130.0 44.00000000000001 L 84.0 56.0 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0009"
+       d="M 130.0 44.00000000000001 L 130.0 44.00000000000001 L 130.0 12.000000000000007 L 130.0 12.000000000000007 L 130.0 44.00000000000001 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0010"
+       d="M 130.0 12.000000000000007 L 130.0 12.000000000000007 L 84.0 -1e-15 L 84.0 -8.9e-16 L 130.0 12.000000000000007 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <path
+       id="Pad_f0011"
+       d="M 84.0 -1e-15 L 84.0 -1e-15 L 0.0 0.0 L 0.0 0.0 L 84.0 0.0 Z "
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1" />
+    <circle
+       cx="115.0"
+       cy="27.999999999999986"
+       r="3.5"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle1" />
+    <circle
+       cx="124.0"
+       cy="37.00000000000001"
+       r="1.75"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle2" />
+    <circle
+       cx="124.0"
+       cy="19.000000000000007"
+       r="1.75"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle3" />
+    <circle
+       cx="91.0"
+       cy="19.000000000000007"
+       r="1.75"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle4" />
+    <circle
+       cx="91.0"
+       cy="37.00000000000001"
+       r="1.75"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle5" />
+    <circle
+       cx="39.0"
+       cy="43.0"
+       r="1.75"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle6" />
+    <circle
+       cx="10.5"
+       cy="53.0"
+       r="1.75"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle7" />
+    <circle
+       cx="115.0"
+       cy="27.999999999999986"
+       r="3.5"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle8" />
+    <circle
+       cx="115.0"
+       cy="27.999999999999986"
+       r="3.5"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;stroke:#ff0000;stroke-opacity:1"
+       id="circle9" />
+    <title
+       id="title9">b'Pad'</title>
+  </g>
+</svg>
